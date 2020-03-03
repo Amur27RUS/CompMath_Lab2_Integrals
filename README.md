@@ -1,4 +1,4 @@
-# CompMath_Lab2_Integrals
+# Computational Math. Lab 2
 A terminal programm, that can solve integrals.
 
 Methods:
