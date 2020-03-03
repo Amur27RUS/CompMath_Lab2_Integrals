@@ -1,5 +1,5 @@
 # CompMath_Lab2_Integrals
-A Programm, that can solve integrals.
+A terminal programm, that can solve integrals.
 
 Methods:
 1. Rectangles Method
